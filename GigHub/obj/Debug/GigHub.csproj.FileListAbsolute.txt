@@ -161,10 +161,13 @@ C:\Users\jin_lee2\Source\Repos\Gighub2\GigHub\bin\Microsoft.Owin.Security.OAuth.
 C:\Users\jin_lee2\Source\Repos\Gighub2\GigHub\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\jin_lee2\Source\Repos\Gighub2\GigHub\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\jin_lee2\Source\Repos\Gighub2\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\jin_lee2\Source\Repos\Gighub2\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
 C:\Users\jin_lee2\Source\Repos\Gighub2\GigHub\obj\Debug\GigHub.Migrations.InitialModel.resources
 C:\Users\jin_lee2\Source\Repos\Gighub2\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
 C:\Users\jin_lee2\Source\Repos\Gighub2\GigHub\obj\Debug\GigHub.dll
 C:\Users\jin_lee2\Source\Repos\Gighub2\GigHub\obj\Debug\GigHub.pdb
 C:\Users\jin_lee2\Source\Repos\Gighub2\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
 C:\Users\jin_lee2\Source\Repos\Gighub2\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionsForGigsAndGenres.resources
+C:\Users\jin_lee2\Source\Repos\Gighub2\GigHub\obj\Debug\GigHub.csprojAssemblyReference.cache
+C:\Users\jin_lee2\Source\Repos\Gighub2\GigHub\obj\Debug\GigHub.csproj.CoreCompileInputs.cache
+C:\Users\jin_lee2\Source\Repos\Gighub2\GigHub\obj\Debug\GigHub.csproj.CopyComplete
+C:\Users\jin_lee2\Source\Repos\Gighub2\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
