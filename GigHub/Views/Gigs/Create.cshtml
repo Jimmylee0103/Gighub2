@@ -19,7 +19,8 @@
         <div class="form-group">
             @Html.LabelFor(m => m.Date)
             @Html.TextBoxFor(m => m.Date, new { @class = "form-control", placeholder="eg 1 Jun 2018" })
-            @Html.ValidationMessageFor(m=>m.Date)
+            @*<input type="date" name="bday">*@
+            @Html.ValidationMessageFor(m => m.Date)
         </div>
         <div class="form-group">
             @Html.LabelFor(m => m.Time)
